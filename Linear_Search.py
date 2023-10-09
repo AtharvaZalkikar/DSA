@@ -24,4 +24,4 @@ def linear_search(li,ele):
     return -1
 
 li = [1,2,3,4,5,6]
-print(linear_search(li,4))
+print(linear_search(li,5))
